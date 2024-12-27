@@ -1,0 +1,46 @@
+.why-consulting {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    gap: 30px;
+    padding: 50px 20px;
+}
+
+.section-container {
+    display: flex;
+}
+
+.consulting-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 500px;
+    text-align: left;
+    z-index: 2;
+}
+
+.consulting-content h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.consulting-content p {
+    font-size: 1rem;
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.consulting-image {
+    max-width: 50%;
+    z-index: 2;
+}
+
+.consulting-image img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
