@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dz2/static/css/main.00a94dc0.css",
+    "main.js": "/dz2/static/js/main.2b2ea9fa.js",
+    "static/media/counter.png": "/dz2/static/media/counter.4813df29ad3c62b16160.png",
+    "index.html": "/dz2/index.html",
+    "main.00a94dc0.css.map": "/dz2/static/css/main.00a94dc0.css.map",
+    "main.2b2ea9fa.js.map": "/dz2/static/js/main.2b2ea9fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00a94dc0.css",
+    "static/js/main.2b2ea9fa.js"
+  ]
+}
